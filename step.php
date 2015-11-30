@@ -1,7 +1,7 @@
 <?php
 
 $a=20;
-ptint($a);
-
+//ptint($a);
+print(just текст);
 
 ?>
